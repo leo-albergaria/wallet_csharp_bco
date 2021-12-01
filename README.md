@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/144228233-3318b9b1-b45e-471c-a20a-84972b242777.png" align="left" height="150px" width="150px">
+    <h1># Criando uma aplicação de transferência bancárias com .NET</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Aprenda como criar um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domnínio, como utilizar enums.
     </p>
 </p>      
 
