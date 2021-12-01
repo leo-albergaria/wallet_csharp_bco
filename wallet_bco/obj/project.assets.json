@@ -1,0 +1,62 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Léo Albergaria\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\#03 - WorkSpaceWEB\\#03 - Wallet Learning\\wallet_dotnet_transfer_bco\\wallet_bco\\wallet_bco.csproj",
+      "projectName": "wallet_bco",
+      "projectPath": "D:\\#03 - WorkSpaceWEB\\#03 - Wallet Learning\\wallet_dotnet_transfer_bco\\wallet_bco\\wallet_bco.csproj",
+      "packagesPath": "C:\\Users\\Léo Albergaria\\.nuget\\packages\\",
+      "outputPath": "D:\\#03 - WorkSpaceWEB\\#03 - Wallet Learning\\wallet_dotnet_transfer_bco\\wallet_bco\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Léo Albergaria\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
